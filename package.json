@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "browser-sync start --server"
+    "postinstall": "npm start"
   },
   "author": "",
   "license": "ISC",
